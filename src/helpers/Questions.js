@@ -21,6 +21,6 @@ export const Questions = [
       optionB: "npm install create-react-app",
       optionC: "npx create-react-app reactapp",
       optionD: "None of the Above",
-      answer: "optionB",
+      answer: "optionC",
     },
   ];

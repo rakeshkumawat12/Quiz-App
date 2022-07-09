@@ -4,7 +4,7 @@ import Quiz from "./components/Quiz";
 import EndScreen from "./components/EndScreen";
 import { useState } from "react";
 import { GameStateContext } from "./helpers/Contexts";
-// ['menu', 'playing', 'finished']
+
 function App() {
   const [gameState, setGameState] = useState("menu");
   const [userName, setUserName] = useState("");
